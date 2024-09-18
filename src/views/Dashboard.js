@@ -36,7 +36,6 @@ import reyna from "../assets/fotos/reyna.jpg";
 import vallejo from "../assets/fotos/vallejo.jpg";
 import zaldivar from "../assets/fotos/zaldivar.jpeg";
 import renteria from "../assets/fotos/RenteríaMeza.jpg";
-import '../styles/cards.css'
 
 // reactstrap components
 import {
